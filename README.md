@@ -1,6 +1,6 @@
 # BANKIST SPA FINAL PART
 
-For testing:
+FOR TESTING
 
 owner: 'Jonas Schmedtmann', pin: 1111,
 
